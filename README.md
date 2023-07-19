@@ -22,13 +22,13 @@ Usage:
 Users can upload music samples or stream audio to the Arduino BLE Sense to get instant genre recognition.
 
 Demo:
-Check out our live demo at [demo.link] to see GenreSense in action.
+Check out our live demo at [demo.link] to see ChromaChords in action.
 
 Contributing:
 We welcome contributions from the community. Please read our CONTRIBUTING.md for guidelines on how to contribute.
 
 License:
-GenreSense is released under the MIT License. See LICENSE for more details.
+ChromaChords is released under the MIT License. See LICENSE for more details.
 
 Contact:
 For questions or feedback, feel free to reach out to us at contact@genresense.io.
