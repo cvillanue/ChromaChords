@@ -15,8 +15,8 @@ Tech Stack:
 Arduino, Edge Impulse, TensorFlow, C++
 
 Installation and Setup:
-Detailed instructions for installing and setting up the project locally can be found in the SETUP Folder. You also can clone the
-project here: https://studio.edgeimpulse.com/public/251605/latest 
+Detailed instructions for installing and setting up the project locally or web-based can be found here: https://docs.edgeimpulse.com/docs/deployment/running-your-impulse-locally. 
+You can alternatively clone the project here at the EdgeImpulse project page: https://studio.edgeimpulse.com/public/251605/latest 
 
 Usage:
 Users can upload music samples or stream audio to the Arduino BLE Sense to get instant genre recognition.
