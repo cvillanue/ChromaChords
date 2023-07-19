@@ -31,4 +31,4 @@ License:
 ChromaChords is released under the MIT License. See LICENSE for more details.
 
 Contact:
-For questions or feedback, feel free to reach out to us at contact@genresense.io.
+For questions or feedback, feel free to reach out to me: cvillanue25@gmail.com 
